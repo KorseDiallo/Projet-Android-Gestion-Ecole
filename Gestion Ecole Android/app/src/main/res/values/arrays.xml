@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_formations">
+        <item>Maintenance informatique et Reseau</item>
+        <item>Programmation et Developpement</item>
+        <item>Marketing</item>
+    </string-array>
+    <string-array name="tab_details">
+        <item> Architecture PC – Electricité et Electronique - Périphériques - Initiation Réseau - Assemblage PC et config.- Diagnostique de panne - LAN etProtocoles – Architecture et Câblage - Serveurs et OS</item>
+        <item>java,Android,PHP , Python,html et css</item>
+        <item>Techniques de communication - Gestion produits services - marketing et communication - Langage et Créativité - Outils CRM - Vente et négociation Sondage et Statistique - Économie d’Entreprise</item>
+    </string-array>
+</resources>

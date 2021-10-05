@@ -1,0 +1,35 @@
+<resources>
+    <string name="description">SUP’INFO, institut supérieur d’informatique et de management d’entreprises, basé à Dakar (Sénégal) a été créé en Décembre 1991. C’est un établissement d’enseignement supérieur et de formation professionnelle reconnu par l’état du Sénégal et la plupart des organismes d’accréditation nationaux et internationaux.
+        L’institut SUP’INFO est membre du Groupe SUP’INFO SENEGAL.
+Le Groupe SUP’INFO, c’est avant tout une équipe de professionnels composée
+        d’Ingénieurs, de Techniciens Supérieurs et de Consultants expérimentés issus de l’entreprise. Ce personnel hautement qualifié, se tient régulièrement informé des évolutions technologiques et participent pleinement à l’évolution des programmes de formation.</string>
+    <string name="app_name">Campus SupInfo</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de passe </string>
+    <string name="connect">se connecter</string>
+    <string name="sign_up">s\'inscrire</string>
+    <string name="under_graduate">Under Graduate</string>
+    <string name="email">supinfo@gmail.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formation</string>
+    <string name="marks">Notes</string>
+    <string name="university">Université</string>
+    <string name="help">Aide</string>
+    <string name="back">Retour</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">Prenom</string>
+    <string name="degrees">Diplomes</string>
+    <string name="last_name">Nom</string>
+    <string name="bachelor">Bac</string>
+    <string name="master">MASTER</string>
+    <string name="save">valider</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="wait">Patientez vous svp</string>
+    <string name="error_fields">Veuillez renseigner tout les champs</string>
+    <string name="error_connection">Erreur de connexion</string>
+    <string name="error_parameters">Paramettres invalides </string>
+    <string name="error_inscription">Inscription echoués</string>
+    <string name="success_inscription">Inscription reussir</string>
+
+</resources>
